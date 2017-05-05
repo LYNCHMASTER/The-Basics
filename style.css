@@ -1,0 +1,46 @@
+* { color: red; }
+
+p.fakelist { margin-left: 25px; }
+#headertop {
+  font-size: 60px;
+  color: red;
+  background-color: black;
+  height: 100px;
+  width: 500px;
+  border: 5px solid red;
+  margin: 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 35px;
+  left: 500px;
+      }
+#mainbody1 {
+position: absolute;
+top: 250px;
+left: 475px;
+font-size: 25px;
+}
+#mainbody2 {
+position: absolute;
+top: 400px;
+left: 690px;
+font-size: 20px;
+}
+#mainbody3 {
+position: absolute;
+top: 650px;
+left: 630px;
+font-size: 20px;
+}
+#login {
+position: absolute;
+top: 500px;
+left: 680px;
+background-color: black;
+color: red;
+border: 2px solid red;
+padding: 5px;
+margin: 3px;
+text-align: center;
+}
+#login input[type="submit"] {padding: 5px; margin-top: 5px; }
